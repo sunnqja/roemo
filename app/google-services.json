@@ -1,96 +1,41 @@
 {
   "project_info": {
-    "project_number": "965565469069",
-    "firebase_url": "https://howlstaram.firebaseio.com",
-    "project_id": "howlstaram",
-    "storage_bucket": "howlstaram.appspot.com"
+    "project_number": "676465218993",
+    "firebase_url": "https://roemo-7ecdf.firebaseio.com",
+    "project_id": "roemo-7ecdf",
+    "storage_bucket": "roemo-7ecdf.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:965565469069:android:988ad1701d464946",
+        "mobilesdk_app_id": "1:676465218993:android:974d0341736faa01",
         "android_client_info": {
-          "package_name": "com.company.howl.howlstagram"
+          "package_name": "com.sunnqja.roemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "965565469069-m1upmsp695ii47h6h9nmdnc253015gcq.apps.googleusercontent.com",
+          "client_id": "676465218993-777c2ofrjctpdt4acbba6up756nn03p4.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.company.howl.howlstagram",
+            "package_name": "com.sunnqja.roemo",
             "certificate_hash": "f021a8577cd1c0392baf95d171720db464e234cc"
           }
-        },
-        {
-          "client_id": "965565469069-fi7mb0uhl07evntg3g51amt2d18jc4i5.apps.googleusercontent.com",
-          "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDhzWly157CFM_Yag656B72lJOesPTKnrI"
+          "current_key": "AIzaSyCyfesQfS9xQpnfrfHmvvXgXcY7ztaRxBw"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "965565469069-fi7mb0uhl07evntg3g51amt2d18jc4i5.apps.googleusercontent.com",
+              "client_id": "676465218993-b7m5f1m2j0or1npbfa3mpk4pufq9i7k8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:965565469069:android:a3ec0c503dfd80ee",
-        "android_client_info": {
-          "package_name": "com.howl.howlstagram"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "965565469069-ij54pfc2d3178hj1bt7cvv916kllrhmr.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.howl.howlstagram",
-            "certificate_hash": "b7e20dc0a4874bf9c325c63192ea2b0207036986"
-          }
-        },
-        {
-          "client_id": "965565469069-fi7mb0uhl07evntg3g51amt2d18jc4i5.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDhzWly157CFM_Yag656B72lJOesPTKnrI"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "965565469069-fi7mb0uhl07evntg3g51amt2d18jc4i5.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
