@@ -15,12 +15,16 @@
       },
       "oauth_client": [
         {
-          "client_id": "676465218993-777c2ofrjctpdt4acbba6up756nn03p4.apps.googleusercontent.com",
+          "client_id": "676465218993-o0411qij71lt12hsncsm0hvabpqkj6gu.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.sunnqja.roemo",
             "certificate_hash": "f021a8577cd1c0392baf95d171720db464e234cc"
           }
+        },
+        {
+          "client_id": "676465218993-b7m5f1m2j0or1npbfa3mpk4pufq9i7k8.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
