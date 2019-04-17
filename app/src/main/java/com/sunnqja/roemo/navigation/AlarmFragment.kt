@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram.navigation
+package com.sunnqja.roemo.navigation
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -7,16 +7,13 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
-import android.widget.TextView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.company.howl.howlstagram.R
-import com.company.howl.howlstagram.model.AlarmDTO
+import com.sunnqja.roemo.R
+import com.sunnqja.roemo.model.AlarmDTO
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ListenerRegistration
-import com.google.firebase.firestore.Query
 import kotlinx.android.synthetic.main.fragment_alarm.view.*
 import kotlinx.android.synthetic.main.item_comment.view.*
 import java.util.ArrayList

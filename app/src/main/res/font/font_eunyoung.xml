@@ -4,7 +4,8 @@
 
     <font
 	android:fontStyle="normal"
-	android:font="@font/moderna"
+	android:font="@font/eunyoung"
     app:fontStyle="normal"
-    app:font="@font/moderna"/>.
+    app:font="@font/eunyoung"/>.
+
     </font-family>

@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram.model
+package com.sunnqja.roemo.model
 
 data class PushDTO(var to: String? = null,
                    var notification: Notification? = Notification()) {

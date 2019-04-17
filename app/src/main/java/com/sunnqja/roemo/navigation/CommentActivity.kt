@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram.navigation
+package com.sunnqja.roemo.navigation
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
@@ -10,11 +10,10 @@ import android.view.ViewGroup
 
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.company.howl.howlstagram.R
-import com.company.howl.howlstagram.R.id.*
-import com.company.howl.howlstagram.model.AlarmDTO
-import com.company.howl.howlstagram.model.ContentDTO
-import com.company.howl.howlstagram.util.FcmPush
+import com.sunnqja.roemo.R
+import com.sunnqja.roemo.model.AlarmDTO
+import com.sunnqja.roemo.model.ContentDTO
+import com.sunnqja.roemo.util.FcmPush
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.firestore.FirebaseFirestore

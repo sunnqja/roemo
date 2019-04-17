@@ -1,6 +1,6 @@
-package com.company.howl.howlstagram.util
+package com.sunnqja.roemo.util
 
-import com.company.howl.howlstagram.model.PushDTO
+import com.sunnqja.roemo.model.PushDTO
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.gson.Gson
 import okhttp3.*

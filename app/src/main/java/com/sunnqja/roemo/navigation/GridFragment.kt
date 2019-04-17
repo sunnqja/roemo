@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram.navigation
+package com.sunnqja.roemo.navigation
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -11,8 +11,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.company.howl.howlstagram.R
-import com.company.howl.howlstagram.model.ContentDTO
+import com.sunnqja.roemo.R
+import com.sunnqja.roemo.model.ContentDTO
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ListenerRegistration
 import kotlinx.android.synthetic.main.fragment_grid.view.*

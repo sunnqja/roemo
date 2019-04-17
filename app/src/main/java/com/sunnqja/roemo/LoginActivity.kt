@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram
+package com.sunnqja.roemo
 
 
 import android.app.Activity
@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
 import android.widget.Toast
+import com.sunnqja.roemo.R
 import com.facebook.AccessToken
 import com.facebook.CallbackManager
 import com.facebook.FacebookCallback

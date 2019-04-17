@@ -1,11 +1,10 @@
-package com.company.howl.howlstagram.navigation
+package com.sunnqja.roemo.navigation
 
 import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.PorterDuff
 import android.os.Bundle
-import android.support.v4.app.ActivityCompat
 import android.support.v4.app.Fragment
 import android.support.v4.content.ContextCompat
 import android.support.v7.widget.GridLayoutManager
@@ -17,15 +16,14 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.company.howl.howlstagram.LoginActivity
-import com.company.howl.howlstagram.MainActivity
-import com.company.howl.howlstagram.R
-import com.company.howl.howlstagram.R.id.account_tv_post_count
-import com.company.howl.howlstagram.model.AlarmDTO
+import com.sunnqja.roemo.LoginActivity
+import com.sunnqja.roemo.MainActivity
+import com.sunnqja.roemo.R
+import com.sunnqja.roemo.model.AlarmDTO
 
-import com.company.howl.howlstagram.model.ContentDTO
-import com.company.howl.howlstagram.model.FollowDTO
-import com.company.howl.howlstagram.util.FcmPush
+import com.sunnqja.roemo.model.ContentDTO
+import com.sunnqja.roemo.model.FollowDTO
+import com.sunnqja.roemo.util.FcmPush
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ListenerRegistration

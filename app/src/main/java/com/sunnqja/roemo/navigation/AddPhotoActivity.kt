@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram.navigation
+package com.sunnqja.roemo.navigation
 
 import android.app.Activity
 import android.content.Intent
@@ -7,10 +7,9 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.company.howl.howlstagram.R
-import com.company.howl.howlstagram.model.ContentDTO
+import com.sunnqja.roemo.R
+import com.sunnqja.roemo.model.ContentDTO
 import com.google.firebase.auth.FirebaseAuth
-import com.google.firebase.firestore.FieldValue
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.FirebaseStorage
 import kotlinx.android.synthetic.main.activity_add_photo.*

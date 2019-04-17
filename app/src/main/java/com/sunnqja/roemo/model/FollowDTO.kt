@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram.model
+package com.sunnqja.roemo.model
 
 import java.util.HashMap
 

@@ -1,4 +1,4 @@
-package com.company.howl.howlstagram
+package com.sunnqja.roemo
 
 import org.junit.Test
 

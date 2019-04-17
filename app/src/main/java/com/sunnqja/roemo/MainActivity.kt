@@ -1,23 +1,20 @@
-package com.company.howl.howlstagram
+package com.sunnqja.roemo
 
 import android.Manifest
 import android.app.Activity
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
 import android.support.design.widget.BottomNavigationView
 import android.support.v4.app.ActivityCompat
 import android.support.v4.content.ContextCompat
-import android.support.v4.content.ContextCompat.startActivity
 import android.support.v7.app.AppCompatActivity
 import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
-import com.company.howl.howlstagram.R.id.*
+import com.sunnqja.roemo.R
 import kotlinx.android.synthetic.main.activity_main.*
-import com.company.howl.howlstagram.navigation.*
+import com.sunnqja.roemo.navigation.*
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.iid.FirebaseInstanceId
