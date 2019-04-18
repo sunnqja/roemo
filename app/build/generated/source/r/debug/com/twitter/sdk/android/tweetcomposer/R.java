@@ -11,17 +11,17 @@ public final class R {
         public static final int tw__twitter_logo = 0x7f0301b0;
     }
     public static final class color {
-        public static final int tw__blue_default = 0x7f05008f;
-        public static final int tw__blue_pressed = 0x7f050090;
-        public static final int tw__composer_black = 0x7f050091;
-        public static final int tw__composer_blue = 0x7f050092;
-        public static final int tw__composer_blue_text = 0x7f050093;
-        public static final int tw__composer_deep_gray = 0x7f050094;
-        public static final int tw__composer_light_gray = 0x7f050095;
-        public static final int tw__composer_red = 0x7f050096;
-        public static final int tw__composer_white = 0x7f050097;
-        public static final int tw__light_gray = 0x7f05009a;
-        public static final int tw__solid_white = 0x7f05009d;
+        public static final int tw__blue_default = 0x7f050090;
+        public static final int tw__blue_pressed = 0x7f050091;
+        public static final int tw__composer_black = 0x7f050092;
+        public static final int tw__composer_blue = 0x7f050093;
+        public static final int tw__composer_blue_text = 0x7f050094;
+        public static final int tw__composer_deep_gray = 0x7f050095;
+        public static final int tw__composer_light_gray = 0x7f050096;
+        public static final int tw__composer_red = 0x7f050097;
+        public static final int tw__composer_white = 0x7f050098;
+        public static final int tw__light_gray = 0x7f05009b;
+        public static final int tw__solid_white = 0x7f05009e;
     }
     public static final class dimen {
         public static final int tw__composer_avatar_size = 0x7f0600cb;

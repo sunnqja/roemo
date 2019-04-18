@@ -2,11 +2,11 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- 배경 -->
     <item
-        android:drawable="@color/cardview_light_background"/>
+        android:drawable="@color/colorIndigo"/>
     <!-- 로고 -->
     <item>
         <bitmap
-            android:scaleType="centerCrop"
+            android:layout_gravity="center"
             android:src="@drawable/ic_background"/>
     </item>
 </layer-list>

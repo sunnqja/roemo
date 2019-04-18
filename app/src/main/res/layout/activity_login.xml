@@ -15,14 +15,14 @@
         <TextView
             android:id="@+id/image_logo"
             android:layout_width="wrap_content"
-            android:layout_height="71dp"
+            android:layout_height="67dp"
             android:layout_gravity="center"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="30dp"
             android:layout_marginBottom="0dp"
             android:fontFamily="@font/font_moderna"
             android:text="roemo"
-            android:textColor="#c9a5c2"
-            android:textSize="60dp" />
+            android:textColor="#C7A4C1"
+            android:textSize="57dp" />
 
         <TextView
             android:id="@+id/logotext"
@@ -32,7 +32,7 @@
             android:fontFamily="@font/font_eunyoung"
             android:text="나의 감정을 기록하는 일기장"
             android:textColor="#c9a5c2"
-            android:textSize="25dp" />
+            android:textSize="24dp" />
 
     </LinearLayout>
     <ProgressBar

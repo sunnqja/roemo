@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="26"
+    api-level="27"
     build-mode="COLD"
-    density="560dpi"
+    density="xxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1555489356805"
+    timestamp="1555559442351"
     token="-217391327885404775"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,11 +29,8 @@
 
     <build
         build-mode="FULL"
-        timestamp="1555488613857"
+        timestamp="1555558674374"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\ComEng\Documents\roemo\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\ComEng\Documents\roemo\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
@@ -68,12 +65,15 @@
             location="C:\Users\ComEng\Documents\roemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\ComEng\Documents\roemo\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\ComEng\Documents\roemo\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1555489356805"
+        timestamp="1555559442351"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\ComEng\Documents\roemo\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"

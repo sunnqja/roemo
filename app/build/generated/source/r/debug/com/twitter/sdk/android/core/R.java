@@ -8,10 +8,10 @@ package com.twitter.sdk.android.core;
 
 public final class R {
     public static final class color {
-        public static final int tw__blue_default = 0x7f05008f;
-        public static final int tw__blue_pressed = 0x7f050090;
-        public static final int tw__light_gray = 0x7f05009a;
-        public static final int tw__solid_white = 0x7f05009d;
+        public static final int tw__blue_default = 0x7f050090;
+        public static final int tw__blue_pressed = 0x7f050091;
+        public static final int tw__light_gray = 0x7f05009b;
+        public static final int tw__solid_white = 0x7f05009e;
     }
     public static final class dimen {
         public static final int tw__login_btn_drawable_padding = 0x7f0600dc;
