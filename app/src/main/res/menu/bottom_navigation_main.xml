@@ -9,17 +9,12 @@
         android:id="@+id/action_search"
         android:enabled="true"
         android:icon="@drawable/ic_search"
-        android:title="@string/search" />
-    <item
-        android:id="@+id/action_add_photo"
-        android:enabled="true"
-        android:icon="@drawable/ic_add_a_photo"
-        android:title="@string/gallery" />
+        android:title="@string/mainalarm" />
     <item
         android:id="@+id/action_favorite_alarm"
         android:enabled="true"
-        android:icon="@drawable/ic_favorite_border"
-        android:title="@string/favorite" />
+        android:icon="@drawable/ic_takenotes"
+        android:title="@string/takenotes" />
     <item
         android:id="@+id/action_account"
         android:enabled="true"

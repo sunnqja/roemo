@@ -15,19 +15,19 @@
       },
       "oauth_client": [
         {
-          "client_id": "676465218993-o0411qij71lt12hsncsm0hvabpqkj6gu.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.sunnqja.roemo",
-            "certificate_hash": "f021a8577cd1c0392baf95d171720db464e234cc"
-          }
-        },
-        {
-          "client_id": "676465218993-46fstoptcpbees0ok703rf3mtt11e55b.apps.googleusercontent.com",
+          "client_id": "676465218993-v5p448bgpc6kh8fssa4euqidhan8cnba.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.sunnqja.roemo",
             "certificate_hash": "b7e20dc0a4874bf9c325c63192ea2b0207036986"
+          }
+        },
+        {
+          "client_id": "676465218993-7s9aaap26q096la3rlgptjcf4j25efso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunnqja.roemo",
+            "certificate_hash": "f021a8577cd1c0392baf95d171720db464e234cc"
           }
         },
         {

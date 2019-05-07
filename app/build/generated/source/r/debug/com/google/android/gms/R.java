@@ -52,22 +52,22 @@ public final class R {
         public static final int googleg_standard_color_18 = 0x7f070096;
     }
     public static final class id {
-        public static final int adjust_height = 0x7f090029;
-        public static final int adjust_width = 0x7f09002a;
-        public static final int auto = 0x7f090030;
-        public static final int button = 0x7f090039;
-        public static final int center = 0x7f09003e;
-        public static final int dark = 0x7f09005d;
-        public static final int icon_only = 0x7f09008d;
-        public static final int light = 0x7f090099;
-        public static final int none = 0x7f0900ac;
-        public static final int normal = 0x7f0900ad;
-        public static final int radio = 0x7f0900bf;
-        public static final int standard = 0x7f0900e8;
-        public static final int text = 0x7f0900ef;
-        public static final int text2 = 0x7f0900f0;
-        public static final int wide = 0x7f090134;
-        public static final int wrap_content = 0x7f090138;
+        public static final int adjust_height = 0x7f090028;
+        public static final int adjust_width = 0x7f090029;
+        public static final int auto = 0x7f09002f;
+        public static final int button = 0x7f090038;
+        public static final int center = 0x7f09003d;
+        public static final int dark = 0x7f09005c;
+        public static final int icon_only = 0x7f09008c;
+        public static final int light = 0x7f090098;
+        public static final int none = 0x7f0900ab;
+        public static final int normal = 0x7f0900ac;
+        public static final int radio = 0x7f0900be;
+        public static final int standard = 0x7f0900e7;
+        public static final int text = 0x7f0900ee;
+        public static final int text2 = 0x7f0900ef;
+        public static final int wide = 0x7f090133;
+        public static final int wrap_content = 0x7f090137;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0a0007;
@@ -91,7 +91,7 @@ public final class R {
         public static final int common_open_on_phone = 0x7f0f0050;
         public static final int common_signin_button_text = 0x7f0f0051;
         public static final int common_signin_button_text_long = 0x7f0f0052;
-        public static final int fcm_fallback_notification_channel_label = 0x7f0f0059;
+        public static final int fcm_fallback_notification_channel_label = 0x7f0f0058;
     }
     public static final class styleable {
         public static final int[] LoadingImageView = { 0x7f030057, 0x7f0300ca, 0x7f0300cb };

@@ -44,32 +44,32 @@ public final class R {
         public static final int tw__login_btn_text_size = 0x7f0600e1;
     }
     public static final class drawable {
-        public static final int tw__btn_composer_tweet = 0x7f0700c1;
-        public static final int tw__composer_close = 0x7f0700c3;
-        public static final int tw__composer_logo_blue = 0x7f0700c4;
-        public static final int tw__composer_logo_white = 0x7f0700c5;
-        public static final int tw__ic_logo_default = 0x7f070106;
-        public static final int tw__login_btn = 0x7f07011a;
-        public static final int tw__login_btn_default = 0x7f07011b;
-        public static final int tw__login_btn_disabled = 0x7f07011c;
-        public static final int tw__login_btn_pressed = 0x7f07011d;
+        public static final int tw__btn_composer_tweet = 0x7f0700c3;
+        public static final int tw__composer_close = 0x7f0700c5;
+        public static final int tw__composer_logo_blue = 0x7f0700c6;
+        public static final int tw__composer_logo_white = 0x7f0700c7;
+        public static final int tw__ic_logo_default = 0x7f070108;
+        public static final int tw__login_btn = 0x7f07011c;
+        public static final int tw__login_btn_default = 0x7f07011d;
+        public static final int tw__login_btn_disabled = 0x7f07011e;
+        public static final int tw__login_btn_pressed = 0x7f07011f;
     }
     public static final class id {
-        public static final int tw__author_avatar = 0x7f090108;
-        public static final int tw__char_count = 0x7f090109;
-        public static final int tw__composer_close = 0x7f09010a;
-        public static final int tw__composer_header = 0x7f09010b;
-        public static final int tw__composer_profile_divider = 0x7f09010c;
-        public static final int tw__composer_scroll_view = 0x7f09010d;
-        public static final int tw__composer_toolbar = 0x7f09010e;
-        public static final int tw__composer_toolbar_divider = 0x7f09010f;
-        public static final int tw__composer_view = 0x7f090110;
-        public static final int tw__edit_tweet = 0x7f090113;
-        public static final int tw__image_view = 0x7f090116;
-        public static final int tw__post_tweet = 0x7f090117;
-        public static final int tw__spinner = 0x7f090119;
-        public static final int tw__twitter_logo = 0x7f090125;
-        public static final int tw__web_view = 0x7f090128;
+        public static final int tw__author_avatar = 0x7f090107;
+        public static final int tw__char_count = 0x7f090108;
+        public static final int tw__composer_close = 0x7f090109;
+        public static final int tw__composer_header = 0x7f09010a;
+        public static final int tw__composer_profile_divider = 0x7f09010b;
+        public static final int tw__composer_scroll_view = 0x7f09010c;
+        public static final int tw__composer_toolbar = 0x7f09010d;
+        public static final int tw__composer_toolbar_divider = 0x7f09010e;
+        public static final int tw__composer_view = 0x7f09010f;
+        public static final int tw__edit_tweet = 0x7f090112;
+        public static final int tw__image_view = 0x7f090115;
+        public static final int tw__post_tweet = 0x7f090116;
+        public static final int tw__spinner = 0x7f090118;
+        public static final int tw__twitter_logo = 0x7f090124;
+        public static final int tw__web_view = 0x7f090127;
     }
     public static final class layout {
         public static final int tw__activity_composer = 0x7f0b0052;
